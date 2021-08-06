@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T19:03:29.953Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ak_WQTbTIrQMWMBeXNhq" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T19:17:32.746Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-YN0MU1BhlHyD_9awOqI" version="14.9.5" type="github">
   <diagram id="4D4Wwo52PUWlQWk5PlVn" name="Page-1">
-    <mxGraphModel dx="1209" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,12 +40,6 @@
         <mxCell id="VSoI2i0r2ZHzMTRy8a5N-19" value="Cache/Storage&amp;nbsp;&lt;br&gt;with&amp;nbsp;&lt;br&gt;compressed&lt;br&gt;voice memo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="410" y="530" width="90" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-24" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.782;exitY=0.045;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VSoI2i0r2ZHzMTRy8a5N-14" target="VSoI2i0r2ZHzMTRy8a5N-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="350" as="sourcePoint" />
-            <mxPoint x="530" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VSoI2i0r2ZHzMTRy8a5N-27" value="Send&lt;br&gt;Wifi Info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="290" width="40" height="20" as="geometry" />
         </mxCell>
@@ -84,6 +78,33 @@
         </mxCell>
         <mxCell id="VSoI2i0r2ZHzMTRy8a5N-40" value="CLOUD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-41" value="1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-42" value="2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-43" value="3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-45" value="4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-46" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.762;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VSoI2i0r2ZHzMTRy8a5N-3" target="VSoI2i0r2ZHzMTRy8a5N-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="360" as="sourcePoint" />
+            <mxPoint x="610" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-47" value="5" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="425" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-49" value="6" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="425" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSoI2i0r2ZHzMTRy8a5N-51" value="7" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="215" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
